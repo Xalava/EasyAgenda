@@ -5,12 +5,10 @@
     <link rel="stylesheet" href="./styles/style_general.css" type="text/css">
     <link rel="stylesheet" href="./styles/personnes.css" type="text/css">
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<META name="Author" lang="fr" content="Trismuth">
 </head>
 
 <body>
 
-<?php include("./bibli/entete.php") ?><!--un petit truc discret a mettre en haut de toutes vos pages, suffit d'avoir un sous dossier bibli ou vous méttez les deux autres fichiers !-->
 
 <H1>Agenda collectif <IMG align="right" src="adresse d'une petite image sympa"></H1>
 <p class=".default"><br><br><br><br></p>
